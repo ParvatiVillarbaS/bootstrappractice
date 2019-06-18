@@ -1,0 +1,31 @@
+body {
+  padding-top: 54px;
+}
+
+navi {
+  padding-top: 0px;
+}
+
+/* .card-img-top {
+    width: 100%;
+    height: 45vh;
+    object-fit: cover;
+} */
+
+.card-img-top {
+    /* width: 50%;
+    height: 50%;
+    object-fit: cover; */
+}
+.card-img-top{
+  padding: 0rem;
+}
+
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.mx-auto
